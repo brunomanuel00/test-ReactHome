@@ -1,0 +1,42 @@
+@import "bootstrap/dist/css/bootstrap.css";
+h2 {
+    font-family: Playfair Display;
+    color: #000;
+    font-size: 4em;
+    font-style: italic;
+}
+
+.text-h1 {
+    font-family: Annapurna SIL;
+}
+
+.text-a {
+    color: #426B1F;
+}
+
+.bton-1 {
+    background-color: #426B1F;
+    color: #fff;
+}
+
+.bton-1:hover {
+    background-color: #365b15;
+    color: #fff;
+}
+
+.p1 {
+    display: block;
+    min-width: 200px;
+}
+
+
+/* jonathan-kemper-1HHrdIoLFpU-unsplash 1 */
+
+
+/* position: absolute;
+height: 693px;
+left: 96px;
+right: 840px;
+top: 701px;
+
+background: url(Stocksy_txp226f62b2aNe300_Medium_4839430.jpg); */
